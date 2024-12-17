@@ -1,3 +1,1 @@
-rootProject.name = "easyflow"
-
-include("core", "api")
+rootProject.name = "chatbot"
